@@ -1,0 +1,26 @@
+.acad{
+    width:600px;
+    border-radius:50px;
+    text-align: center;
+}
+#marqueeStyle{
+    text-decoration: underline;
+    border:5px solid aqua;
+    text-decoration-color: chocolate;
+    background-color: lightsalmon;
+}
+#a {
+    position:fixed;
+    float:none;
+     z-index:99999;
+}
+.announcement{
+    position:fixed;
+    margin-top:50px;
+    float:none;
+    margin-bottom:50px;
+    z-index:99999;
+}
+#imformation{
+    margin-top:80px;
+}
